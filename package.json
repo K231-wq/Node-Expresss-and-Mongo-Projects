@@ -1,0 +1,17 @@
+{
+  "name": "4.nodeandexpress",
+  "version": "1.0.0",
+  "main": "10-fs-module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "4.nodeandexpress": "file:",
+    "bootstrap": "^5.3.5",
+    "lodash": "^4.17.21"
+  }
+}

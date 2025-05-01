@@ -1,0 +1,2 @@
+The new text string hello this is testing method + hello this is second text;[The new text string hello this is testing method + hello this is second text;]
+ [The new text string hello this is testing method + hello this is second text;]
